@@ -1,75 +1,75 @@
-Determinante,Subdeterminante,Nome do indicador,Fonte,Unidade de medida,Período,São Paulo,Rio de Janeiro,Mafra,Bela Vista do Toldo,Canoinhas,Irineópolis,Itaiópolis,Major Vieira,Monte Castelo,Papanduva,Porto União, Três Barras,Links,Notas
-Infraestrutura,Transporte Interurbano,Número de Decolagens por Ano,ANAC,Decolagens por ano,2021,36387,42453,0,0,0,0,0,0,0,0,0,0,https://sas.anac.gov.br/sas/bav/view/frmConsultaVRA ,
-Infraestrutura,Condições Urbanas,Acesso à Internet Rápida,ANATEL,Acessos/hab.,2021,"3,68","3,05","2,46","4,7","2,02","2,64","1,37","3,65","3,63","2,05","2,8","3,08",https://informacoes.anatel.gov.br/paineis/meu-municipio ,
-Infraestrutura,Condições Urbanas,Custo da Energia Elétrica,ANEEL e operadoras,R$/kwh,2022,"R$ 0,59","R$ 0,80","0,62","0,62","0,62","0,62","0,62","0,62","0,62","0,62","0,62","0,62",https://portalrelatorios.aneel.gov.br/luznatarifa/rankingtarifas ,
-Mercado,Desenvolvimento Econômico,Índice de Desenvolvimento Humano,Atlas do Desenvolvimento Humano no Brasil,Índice,2010,"0,805","0,799","0,777","0,675","0,757","0,699","0,708","0,69","0,675","0,704","0,786","0,706",drive AMPLANORTE,Porto União: https://uni-contestado-site.s3.amazonaws.com/site/biblioteca/ebook/Caderno%20Socioecon%C3%B4mico%20de%20Porto%20Uni%C3%A3o%2023-07.pdf?utm_source 
-Acesso a Capital,Capital Disponível,Operações de Crédito por Município,BACEN e IBGE,% crédito,2021,"206,84%","50,54%",217% (PIB 2018 / OPC 2024),68% (PIB 2008 / OPC2025),542% (PIB 2021 / OP 2025),59% (PIB 2021 / OP 2025),285% (PIB2018 e Op de Crédito 2024),352% (PIB 2021 / OP 2025),3023% (PIB 2023 OP 2025),82% (pib 2021 / op 2025),211% (pib 2024 op 2025),1613% (pib 2024 op 2025),https://www.tesourotransparente.gov.br/temas/estados-e-municipios/operacoes-de-credito-de-estados-e-municipios ,
-Acesso a Capital,Capital Disponível,Capital Poupado per capita,BACEN e IBGE,R$/habitante,2021,"R$ 73.538,00","R$ 45.609,41"," 13976,43", -," R$  10.565,17 "," R$  4.299,60 "," R$  7.572,35 "," R$  2.754,48 ", -," R$  6.993,72 "," R$  58.473,77 "," R$  3.049,77 ",https://www.bcb.gov.br/estatisticas/estatisticabancariamunicipios ,
- Inovação, Inputs, Média de Investimentos do BNDES e FINEP, BNDES e FINEP, Valor investido/empresa,2021," R$  32.640,93 "," R$  4.145,11 "," R$  71.717,66 "," R$  284.285,71 "," R$  901.106,57 "," R$  38.111,81 "," R$  173.275,86 "," R$  44.050,00 "," R$  571.000,00 "," R$  2.280.439,37 "," R$ 446.680,11"," R$  938.757,90 ", https://www.bndes.gov.br/wps/portal/site/home/transparencia/consulta-operacoes-bndes/consulta-a-operacoes-bndes/!ut/p/z1/tZNNc5swEIZ_Sw4cZS0gbKc3nBA7ASdpM_6AS0aAMGqNRCTZNP31FW4ObtO408lEF41W2mffV1rhDK9xJuieb6jhUtCtXafZ8DE5j6MZuYNk-gVcCIP4Klxexv4YAK8OB-CNEQLOjvPBv7-CcJa4CzKfgBcTvMQZzgphWlPjNBcl049caMPNrjgocKCWDXPAKCp0SxUTBacOFFLo3dZQVHFB-1DDhJH6aIMi2TJFC8k0OnD7Qm3BS5x6bJh7o4KgqgxKRIqyRLQaVaisXMK8gA1LoC_GTjjPTvte9fWOCXfXfmS9XyQBiWJ3eu6_HDjBSK2G0ZGG-1t7e8HnCUwj4hJ3iFd7zjq8EFI19rEe_tPi7HWF5eQSwuT6IZkuwB-77jsr_MNA8LH40TvxN78_4OsWsL_DU_OL-cZiqakRF5XE6xMtaBP416enLLQ9L4Vh3w1ef2zTWw-brcx_feVQ5P7YilWsYoqpwU7ZcG1Mqz854EDXdYND1mAj94Nc2Uhr6a1UptekuWFvKPsbvJbauvuTidtm0Yz9Z_Stmkc-SW_2Pya3qJ8StkJZ_tyFZ2c_AVT-wCA!/dz/d5/L2dBISEvZ0FBIS9nQSEh/  (2020-2021),
-Inovação,Inputs,Proporção de Mestres e Doutores em C&T,CAPES e RAIS,Titulados/mil empresas,2020,"5,46","17,62",-,-,-,-,-,-,-,-,-,-,"Embora não existam dados consolidados sobre a proporção de mestres e doutores em C&T por município em Santa Catarina, iniciativas como os Observatórios de CTI da Fapesc e informações de instituições de ensino superior oferecem insights sobre a distribuição desses profissionais no estado.",
-Ambiente Regulatório,Tempo de Processos,Taxa de Congestionamento em Tribunais,CNJ,% de processos,2021,"96,21%","96,41%","86,80%",-,"86,98%",-,"84,55%",-,-,"92,71%","87,92%",-,https://justica-em-numeros.cnj.jus.br/painel-estatisticas/,
-Acesso a Capital,Capital Disponível,Proporção Relativa de Capital de Risco,Crunchbase,% capital de risco,2021,"8,75%","1,16%",-,-,-,-,-,-,-,-,-,-,"Embora não existam dados detalhados por município, é evidente que Florianópolis e Blumenau são os principais polos de atração de capital de risco em Santa Catarina.",
-Infraestrutura,Condições Urbanas,Taxa de Homicídios,DATASUS,Ocorrências/100 mil habitantes,2020,"2,43","16,09","1,65","0,06","3,85","0,11","0,22",0,"2,32","0,79","2,98","0,2",https://ssp.sc.gov.br/wp-content/uploads/2024/12/NOV-1.pdf ,
-Ambiente Regulatório,Tributação,Qualidade de Gestão Fiscal,FIRJAN,Índice,2021,"0,82","0,3","0,88","0,56","0,6","0,76","0,85","0,76","0,7","0,92","0,88","0,94",https://www.firjan.com.br/ifgf/consulta-ao-indice/,
-Infraestrutura,Transporte Interurbano,Conectividade Via Rodovias,Google Maps ,Rodovias,2022,16,4,2,2,3,1,2,1,1,2,3,2,drive AMPLANORTE,
-Cultura,Iniciativa,Pesquisas por Empreendedora,Google Trends,Pontos ponderados por período e local,2022,"18,24",27,-,-,-,-,-,-,-,-,-,-,https://trends.google.com.br/trends/explore?date=2022-01-01%202022-12-31&geo=BR-SC&q=Empreendedora,
-Cultura,Iniciativa,Pesquisas por Empreendedorismo,Google Trends,Pontos ponderados por período e local,2022,"29,28","31,36",64,-,59,-,-,-,-,54,68,-,https://trends.google.com.br/trends/explore?date=2022-01-01%202022-12-31&geo=BR-SC&q=Empreendedorismo,
-Cultura,Iniciativa,Pesquisas por MEI,Google Trends,Pontos ponderados por período e local,2022,"68,4",63,-,-,-,-,-,-,-,-,-,-,https://trends.google.com.br/trends/explore?date=2022-01-01%202022-12-31&geo=BR-SC&q=MEI,
-Cultura,Instituições,Pesquisas por Sebrae,Google Trends,Pontos ponderados por período e local,2022,"38,76","22,62",-,-,-,-,-,-,-,-,-,-,https://trends.google.com.br/trends/explore?date=2022-01-01%202022-12-31&geo=BR-SC&q=Sebrae,
-Cultura,Instituições,Pesquisas por Franquia,Google Trends,Pontos ponderados por período e local,2022,"66,75","70,31",67,-,-,-,-,-,-,-,53,-,https://trends.google.com.br/trends/explore?date=2022-01-01%202022-12-31&geo=BR-SC&q=Franquia,
-Cultura,Instituições,Pesquisas por SIMPLES Nacional,Google Trends,Pontos ponderados por período e local,2022,"53,46","30,68",-,-,-,-,-,-,-,-,55,-,https://trends.google.com.br/trends/explore?date=2022-01-01%202022-12-31&geo=BR-SC&q=Simples%20Nacional,
-Cultura,Instituições,Pesquisas por Senac,Google Trends,Pontos ponderados por período e local,2022,"6,5","34,04",-,-,56,-,-,-,-,-,-,-,https://trends.google.com.br/trends/explore?date=2022-01-01%202022-12-31&geo=BR-SC&q=Senac,
-Mercado,Desenvolvimento Econômico,Crescimento Real Médio do PIB,IBGE,% crescimento,2019,"-1,53%","-2,48%","8,52% (2018-2021)",9.61%,"9,15%","10,14%","12,07%",12.95%,10.78%,12.79%,15.41%,11.14%,https://ftp.ibge.gov.br/Pib_Municipios/2021/base/base_de_dados_2010_2021_xlsx.zip,"Fora utilizada a linguagem de programação Python junto a bibliotecas de análise e manipulação de dados como a Pandas, para analisar grandes bases de dados do governo como a do link em questão."
-Mercado,Clientes Potenciais,PIB per capita,IBGE,R$,2019,"R$ 61.615,28","R$ 52.391,45"," 43.817,87"," R$  30.823,44 "," R$  40.376,72 "," R$  40.421,58 "," R$  47.859,71 "," R$  36.581,74 "," R$  28.731,69 "," R$  43.734,95 "," R$  32.220,81 "," R$  78.265,31 ",https://www.ibge.gov.br/cidades-e-estados/sc/mafra.html,
-Capital Humano,Acesso e Qualidade da Mão de Obra Básica,Nota do Ideb,INEP,Índice,2019,"4,9","4,9","5,4",-,"5,85",6,"5,25","5,45","5,25","5,55","5,15","4,7",file:///C:/Users/pamel/Downloads/1382848_099_AmplaNorte_Publicacao_FINAL_00_250418_122237%20(1).pdf ,
-Capital Humano,Acesso e Qualidade da Mão de Obra Básica,Proporção de Adultos com pelo menos o Ensino Médio Completo,INEP,% de pessoas,2021,"56,56%","55,68%","22,63%","10,80%","25,69%","12,58%","15,62%","13,42%","22,63%","14,70%","23,45%","2275,00%",file:///C:/Users/pamel/Downloads/1382848_099_AmplaNorte_Publicacao_FINAL_00_250418_122237%20(1).pdf ,
-Capital Humano,Acesso e Qualidade da Mão de Obra Básica,Nota Média no ENEM,INEP,Índice,2021,"566,06","571,78",403 ,-,-,-,-,-,-,-,365,-,https://datampe.sebrae.com.br/profile/geo/mafra,
-Capital Humano,Acesso e Qualidade da Mão de Obra Qualificada,Proporção de Adultos com pelo menos os Ensino Superior Completo,INEP,% pessoas,2021,"40,54%","35,87%","9,65%","3,16%","10,68%","6,39%","7,72%","4,73%","9,65%","5,33%","15,47%","7,13%",file:///C:/Users/pamel/Downloads/1382848_099_AmplaNorte_Publicacao_FINAL_00_250418_122237%20(1).pdf ,
-Capital Humano,Acesso e Qualidade da Mão de Obra Qualificada,Proporção de Alunos Concluintes em Cursos de Alta Qualidade,INEP,% alunos,2021,"16,82%","29,25%","Em 2021 e 2022, Mafra ficou com notas menores que 4 e 5.",-,"Em 2021 e 2022, Canoinhas ficou com notas menores que 4 e 5.",,,,,,,,https://enade.inep.gov.br/enade/#!/relatorioIES,"DE 2021 À 2023; Fora utilizada a linguagem de programação Python junto a bibliotecas de análise e manipulação de dados como a Pandas, para analisar grandes bases de dados do governo como a do link em questão."
-Capital Humano,Acesso e Qualidade da Mão de Obra Básica,Taxa Líquida de Matrícula no Ensino Médio,INEP e IBGE,% de jovens,2021,"76,41%","76,40%","78,11%","77,08%","72,25%","70,47%","63,89%","70,15%","59,71%","69,63%","75,31%",,http://www.atlasbrasil.org.br/perfil/municipio/421010,"Fora utilizada a linguagem de programação Python junto a bibliotecas de análise e manipulação de dados como a Pandas, para analisar grandes bases de dados do governo como a do link em questão."
-Capital Humano,Acesso e Qualidade da Mão de Obra Básica,Proporção de Matriculados no Ensino Técnico e Profissionalizante,INEP e IBGE,% de jovens,2021,"1,53%","1,12%",0.86%,0%,3.44%,0.12%,0.03%,0.15%,0.18%,0%,1.61%,0.20%,https://download.inep.gov.br/dados_abertos/microdados_censo_escolar_2021.zip,
-Inovação,Inputs,Contratos de Concessão,INPI,Contratos/mil empresas,2018 + 2019,"279,23","213,17","0,13  (https://www.empresaqui.com.br/listas-de-empresas/SC/MAFRA?utm_source)",-,-,-,-,-,-,-,-,"2,17 (https://www.empresaqui.com.br/listas-de-empresas/SC/TRES_BARRAS?utm_source)",https://www.gov.br/inpi/pt-br/inpi-data/dados-e-series-temporais/badepi?utm_source,https://www.gov.br/inpi/pt-br/inpi-data/dados-e-series-temporais/badepi?utm_source=
-Inovação,Outputs,Patentes,INPI,Patentes/mil empresas,2018 + 2019,"7,74","7,76","0,77",0,"0,70",0,0,0,0,"1,35","1,15",0,https://inpidrive.inpi.gov.br/index.php/s/TK6P8UThwYySyJs,"Fora utilizada a linguagem de programação Python junto a bibliotecas de análise e manipulação de dados como a Pandas, para analisar grandes bases de dados do governo como a do link em questão."
-Inovação,Inputs,Infraestrutura Tecnológica,MCTIC e sites de internet,Binária ,2022,0,1,0,0,0,0,0,0,0,0,0,0,,
-Infraestrutura,Transporte Interurbano,Distância ao Porto mais Próximo,MINFRA,Km,2022,50,24,186 São Francisco do Sul (SC),269 São Francisco do Sul (SC),290 São Francisco do Sul (SC),246 São Francisco do Sul (SC),210 São Francisco do Sul (SC),263 São Francisco do Sul (SC),247 São Francisco do Sul (SC),220 São Francisco do Sul (SC),309 São Francisco do Sul (SC),240 São Francisco do Sul (SC),https://uni-contestado-site.s3.amazonaws.com/site/biblioteca/ebook/MAFRA_EM_DADOS_SOCIOECONOMICOS_2019_2020.pdf ,
-Ambiente Regulatório,Complexidade Burocrática,Atualização de Zoneamento,MUNIC/IBGE,Anos,2018 (atualizado),4,44,3 (Lei Complementar nº 86/2022),17 (Lei Complementar nº 001/2008),1 (Lei Complementar nº 084/2024),26 (Lei Municipal nº 951/1999),17 (Lei nº 466/2011),5 (Lei Complementar nº 081/2020),16 (Lei Complementar nº 002/2009),19 (Lei Complementar nº 20/2006),5 (Lei Complementar nº 039/2020),19 (Lei Complementar nº 020/2006),Site de cada prefeitura,
-Mercado,Desenvolvimento Econômico,Número de Empresas Exportadoras com Sede na Cidade,RAIS (ME),% empresas,2020,"1,31%","0,59%",,,,,,,,,,,,
-Mercado,Clientes Potenciais,Proporção entre Grandes/Médias e Médias/Pequenas Empresas,RAIS (ME),% empresas,2020,"136,70%","140,16%",,,,,,,,,,,,
-Inovação,Inputs,Proporção de Funcionários em C&T,RAIS (ME),% de funcionários,2020,"7,32%","6,99%",,,,,,,,,,,"Embora não existam dados consolidados sobre a proporção de mestres e doutores em C&T por município em Santa Catarina, iniciativas como os Observatórios de CTI da Fapesc e informações de instituições de ensino superior oferecem insights sobre a distribuição desses profissionais no estado.",
-Inovação,Outputs,Tamanho da Indústria Inovadora,RAIS (ME),% empresas,2020,"1,10%","0,42%",,,,,,,,,,,,
-Inovação,Outputs,Tamanho da Economia Criativa,RAIS (ME),% empresas,2020,"2,08%","2,22%",,,,,,,,,,,,
-Inovação,Outputs,Tamanho das Empresas TIC,RAIS (ME),% empresas,2020,"2,50%","1,84%",,,,,,,,,,,,
-Capital Humano,Acesso e Qualidade da Mão de Obra Qualificada,Custo Médio de Salários de Dirigentes,RAIS (ME),R$,2020,"R$ 11.044,57","R$ 8.535,63"," 6775,95 ", R$  -   ," 6,902,37 "," R$  4.884,68 "," R$  6.143,53 "," R$  4.357,96 "," R$  3.580,80 "," R$  6.881,62 "," R$  4.849,77 "," R$  14.219,21 ",https://app.powerbi.com/view?r=eyJrIjoiNjk3M2IwZDYtOGQzMS00YmE1LWE3M2MtZWRjODA4NTk3YTQ2IiwidCI6IjNlYzkyOTY5LTVhNTEtNGYxOC04YWM5LWVmOThmYmFmYTk3OCJ9,
-Ambiente Regulatório,Tempo de Processos,Tempo de Viabilidade de Localização,REDESIM,Horas médias,2021,"0,18",0,,,,,,,,,,,,
-Ambiente Regulatório,Tempo de Processos,"Tempo de Registro, Cadastro e Viabilidade de Nome",REDESIM,Horas médias,2021,"37,68","34,74",,,,,,,,,,,,
-Ambiente Regulatório,Complexidade Burocrática,Simplicidade Tributária,SICONFI,Índice,2021,"0,087","0,0495",,,,,,,,,,,,
-Ambiente Regulatório,Tributação,Alíquota Interna do ICMS,SICONFI e IBGE,% do PIB estadual,2021 e 2018,"8,02%","6,80%","10,14%","10,14%","10,14%","10,14%","10,14%","10,14%","10,14%","10,14%","10,14%","10,14%",IBGE e https://www.sef.sc.gov.br/ ,
-Ambiente Regulatório,Tributação,Alíquota Interna do IPTU,SICONFI e IBGE,% do PIB estadual,2021 e 2018,"1,75%","1,16%",,,"2,92% (https://s3cache.dom.sc.gov.br/atos/2024/11/1730837665_demonstrativo_das_receitas_e_despesas_com_aes_e_servios_pblicos_de_sade.pdf) ",,,,"0,2% (https://www.fecam.org.br/ )",,,,Demais municípios não disponibilizaram todas as informações. ,
-Ambiente Regulatório,Tributação,Alíquota Interna do ISS,SICONFI e IBGE,% do PIB estadual,2021 e 2018,"3,07%","1,89%",,,"0,39% (https://edicao.dom.sc.gov.br/atos/2511870?)","0,70% (https://diariomunicipal.sc.gov.br/atos/2517991?utm_)",,,"2,06% (https://diariomunicipal.sc.gov.br/atos/5952805?utm_)","3,82% (https://documentos.mpsc.mp.br/portal/conteudo/Sa%C3%BAde%20Fiscal%20MunicipiosPAPANDUVA.pdf?utm)","0,52% (https://www.diariomunicipal.sc.gov.br/atos/3182140?utm)","5,43% (https://documentos.mpsc.mp.br/portal/conteudo/Sa%C3%BAde%20Fiscal%20MunicipiosTR%C3%8AS%20BARRAS.pdf?utm)",Demais municípios não disponibilizaram todas as informações. ,
-Mercado,Clientes Potenciais,Compras Públicas,SICONFI e RAIS,R$/empresa,2020 e 2021,"R$ 804.009,55","R$ 810.772,78","R$ 372.805,42","R$ 1.027.658,41","R$ 35.448,43","R$ 2.346.294,15","R$ 494.194,46","R$ 685.806,68","R$ 525.073,10",,"R$ 346.139,81","R$ 2.493.251,71",https://siconfi.tesouro.gov.br/siconfi/index.jsf;jsessionid=kSWZAXofDE4hnt2REeoOeWzn.node2,
-Ambiente Regulatório,Complexidade Burocrática,CNDs Municipais,Websites das prefeituras.,Binária,2022,1,0,1,1,1,1,1,1,1,1,1,1,Informações retiradas via mineração de dados nos sites das prefeituras,
-Infraestrutura,Condições Urbanas,Preço Médio do m²,ZapImóveis,R$/m²,2022,"R$ 5.761,17","R$ 4.253,00",,,,,,,,,,,"Não existem dados de mercado amplamente divulgados para o preço médio do m² dos municípios em estudo, mas com base nas principais divulgações em websites o preço médio em SC é de R$ 8 845/m². ",
-Ambiente Regulatório,Tempo de Processos,Índice de Tempo de Processos,,,,"5,8667","11,056",,,,,,,,,,,,
-Ambiente Regulatório,Tributação,Índice de Tributação,,,,"5,4404","4,8742",,,,,,,,,,,,
-Ambiente Regulatório,Complexidade Burocrática,Índice de Complexidade Tributária,,,,"8,9839","5,3547",,,,,,,,,,,,
-Ambiente Regulatório,Índice de Ambiente Regulatório,,,,,"7,6018","8,2967",,,,,,,,,,,,
-Infraestrutura,Transporte Interurbano,Índice de Transporte Urbano,,,,"8,6528","6,5881",,,,,,,,,,,,
-Infraestrutura,Condições Urbanas,Índice de Condições Urbanas,,,,"8,7733","5,0526",,,,,,,,,,,,
-Infraestrutura,Índice de Infraestrutura,,,,,"10,0455","5,7321",,,,,,,,,,,,
-Mercado,Desenvolvimento Econômico,Índice de Desenvolvimento Econômico,,,,"6,55","5,884",,,,,,,,,,,,
-Mercado,Clientes Potenciais,Índice de Clientes Potenciais,,,,"7,2315","7,0409",,,,,,,,,,,,
-Mercado,Índice de Mercado,,,,,"7,1474","6,5954",,,,,,,,,,,,
-Acesso a Capital,Índice de Acesso a Capital,,,,,"12,0227","7,3875",,,,,,,,,,,,
-Inovação,Inputs,Índice de Inputs,,,,"7,9865","7,4564",,,,,,,,,,,,
-Inovação,Outputs,Índice de Outputs,,,,"7,5726","6,9329",,,,,,,,,,,,
-Inovação,Índice de Inovação,,,,,"7,9337","7,2981",,,,,,,,,,,,
-Capital Humano,Acesso e Qualidade da Mão de Obra Básica,Índice de Acesso e Qualidade da Mão de Obra Básica,,,,"6,8058","6,6569",,,,,,,,,,,,
-Capital Humano,Acesso e Qualidade da Mão de Obra Qualificada,Índice de Acesso e Qualidade de Mão de Obra Qualificada,,,,"5,2723","5,7822",,,,,,,,,,,,
-Capital Humano,Índice de Capital Humano,,,,,"6,0466","6,2624",,,,,,,,,,,,
-Cultura,Iniciativa,Índice de Iniciativa,,,,"5,9222","5,9808",,,,,,,,,,,,
-Cultura,Instituições,Índice Instituições,,,,"6,4595","6,4223",,,,,,,,,,,,
-Cultura,Índice de Cultura,,,,,"6,2031","6,2145",,,,,,,,,,,,
-Fator 1,,,,,,"3,022","0,5776",,,,,,,,,,,,
-Fator 2,,,,,,"2,4354","1,9608",,,,,,,,,,,,
-Fator 3,,,,,,"-0,8279","0,4559",,,,,,,,,,,,
-ICE 2023,,,,,,"8,6728","7,7287",,,,,,,,,,,,
+Determinante,Subdeterminante,Nome do indicador,Fonte,Unidade de medida,Período,São Paulo,Rio de Janeiro,Mafra,Bela Vista do Toldo,Canoinhas,Irineópolis,Itaiópolis,Major Vieira,Monte Castelo,Papanduva,Porto União, Três Barras
+Capital Humano,Acesso e Qualidade da Mão de Obra Básica,Nota do Ideb,INEP,Índice,2019,4.9,4.9,5.4,0,5.85,6,5.25,5.45,5.25,5.55,5.15,4.7
+Capital Humano,Acesso e Qualidade da Mão de Obra Básica,Proporção de Adultos com pelo menos o Ensino Médio Completo,INEP,% de pessoas,2021,56.56,55.68,22.63,10.80,25.69,12.58,15.62,13.42,22.63,14.70,23.45,2275.00
+Capital Humano,Acesso e Qualidade da Mão de Obra Básica,Nota Média no ENEM,INEP,Índice,2021,566.06,571.78,403,0,0,0,0,0,0,0,365,0
+Capital Humano,Acesso e Qualidade da Mão de Obra Básica,Taxa Líquida de Matrícula no Ensino Médio,INEP e IBGE,% de jovens,2021,76.41,76.40,78.11,77.08,72.25,70.47,63.89,70.15,59.71,69.63,75.31,0
+Capital Humano,Acesso e Qualidade da Mão de Obra Básica,Proporção de Matriculados no Ensino Técnico e Profissionalizante,INEP e IBGE,% de jovens,2021,1.53,1.12,0.86,0,3.44,0.12,0.03,0.15,0.18,0,1.61,0.20
+Capital Humano,Acesso e Qualidade da Mão de Obra Básica,Índice de Acesso e Qualidade da Mão de Obra Básica,,,,1.6,6.6569,0,0,0,0,0,0,0,0,0,0
+Capital Humano,Acesso e Qualidade da Mão de Obra Qualificada,Proporção de Adultos com pelo menos os Ensino Superior Completo,INEP,% pessoas,2021,40.54,35.87,9.65,3.16,10.68,6.39,7.72,4.73,9.65,5.33,15.47,7.13
+Capital Humano,Acesso e Qualidade da Mão de Obra Qualificada,Proporção de Alunos Concluintes em Cursos de Alta Qualidade,INEP,% alunos,2021,16.82,29.25,0,0,0,0,0,0,0,0,0,0
+Capital Humano,Acesso e Qualidade da Mão de Obra Qualificada,Custo Médio de Salários de Dirigentes,RAIS (ME),R$,2020, 11044.57, 8535.63,   6775.95   ,0,  6902.37 ,     4884.68 ,     6143.53 ,     4357.96 ,     3580.80 ,     6881.62 ,     4849.77 ,     14219.21 
+Capital Humano,Acesso e Qualidade da Mão de Obra Qualificada,Índice de Acesso e Qualidade de Mão de Obra Qualificada,,,,1.5,5.7822,0,0,0,0,0,0,0,0,0,0
+Acesso a Capital,Capital Disponível,Operações de Crédito por Município,BACEN e IBGE,% crédito,2021,206.84,50.54,217,68,542,59,285,352,3023,82,211,1613
+Acesso a Capital,Capital Disponível,Capital Poupado per capita,BACEN e IBGE,R$/habitante,2021, 73538.00, 45609.41,   13976.43,0,     10565.17,     4299.60,     7572.35,     2754.48,0,     6993.72,     58473.77,     3049.77
+Acesso a Capital,Capital Disponível,Proporção Relativa de Capital de Risco,Crunchbase,% capital de risco,2021,8.75,1.16,0,0,0,0,0,0,0,0,0,0
+Mercado,Clientes Potenciais,PIB per capita,IBGE,R$,2019, 61615.28, 52391.45,   43817.87,     30823.44,     40376.72,     40421.58,     47859.71,     36581.74,     28731.69,     43734.95,     32220.81,     78265.31
+Mercado,Clientes Potenciais,Proporção entre Grandes/Médias e Médias/Pequenas Empresas,RAIS (ME),% empresas,2020,136.70,140.16,0,0,0,0,0,0,0,0,0,0
+Mercado,Clientes Potenciais,Compras Públicas,SICONFI e RAIS,R$/empresa,2020 e 2021, 804009.55, 810772.78, 372805.42, 1027658.41, 35448.43, 2346294.15, 494194.46, 685806.68, 525073.10,, 346139.81, 2493251.71
+Mercado,Clientes Potenciais,Índice de Clientes Potenciais,,,,1.7,7.0409,0,0,0,0,0,0,0,0,0,0
+Ambiente Regulatório,Complexidade Burocrática,Atualização de Zoneamento,MUNIC/IBGE,Anos,2018 (atualizado),3.1,44,3,17,1,26,17,5,16,19,5,19
+Ambiente Regulatório,Complexidade Burocrática,Simplicidade Tributária,SICONFI,Índice,2021,27.3,495,0,0,0,0,0,0,0,0,0,0
+Ambiente Regulatório,Complexidade Burocrática,CNDs Municipais,Websites das prefeituras.,Binária,2022,31.12,0,1,1,1,1,1,1,1,1,1,1
+Ambiente Regulatório,Complexidade Burocrática,Índice de Complexidade Tributária,,,,1.8,5.3547,0,0,0,0,0,0,0,0,0,0
+Infraestrutura,Condições Urbanas,Acesso à Internet Rápida,ANATEL,Acessos/hab.,2021,3.68,03.05,2.46,4.7,02.02,2.64,1.37,3.65,3.63,02.05,2.8,03.08
+Infraestrutura,Condições Urbanas,Custo da Energia Elétrica,ANEEL e operadoras,R$/kwh,2022, 0.59, 0.80,0.62,0.62,0.62,0.62,0.62,0.62,0.62,0.62,0.62,0.62
+Infraestrutura,Condições Urbanas,Taxa de Homicídios,DATASUS,Ocorrências/100 mil habitantes,2020,2.43,16.09,1.65,0.06,3.85,0.11,0.22,0,2.32,0.79,2.98,0.2
+Infraestrutura,Condições Urbanas,Preço Médio do m²,ZapImóveis,R$/m²,2022, 5761.17, 4253.00,0,0,0,0,0,0,0,0,0,0
+Infraestrutura,Condições Urbanas,Índice de Condições Urbanas,,,,1.8,5.0526,0,0,0,0,0,0,0,0,0,0
+Mercado,Desenvolvimento Econômico,Índice de Desenvolvimento Humano,Atlas do Desenvolvimento Humano no Brasil,Índice,2010,15.3,799,777,675,757,699,708,0.69,675,704,786,706
+Mercado,Desenvolvimento Econômico,Crescimento Real Médio do PIB,IBGE,% crescimento,2019,1.53,2.48,8.52,9.61,9.15,10.14,12.07,12.95,10.78,12.79,15.41,11.14
+Mercado,Desenvolvimento Econômico,Número de Empresas Exportadoras com Sede na Cidade,RAIS (ME),% empresas,2020,1.31,0.59,0,0,0,0,0,0,0,0,0,0
+Mercado,Desenvolvimento Econômico,Índice de Desenvolvimento Econômico,,,,6.55,5.884,0,0,0,0,0,0,0,0,0,0
+Acesso a Capital,Índice de Acesso a Capital,,,,,1.12,7.3875,0,0,0,0,0,0,0,0,0,0
+Ambiente Regulatório,Índice de Ambiente Regulatório,,,,,1.7,8.2967,0,0,0,0,0,0,0,0,0,0
+Capital Humano,Índice de Capital Humano,,,,,1.6,6.2624,0,0,0,0,0,0,0,0,0,0
+Cultura,Índice de Cultura,,,,,1.6,6.2145,0,0,0,0,0,0,0,0,0,0
+Infraestrutura,Índice de Infraestrutura,,,,,1.10,5.7321,0,0,0,0,0,0,0,0,0,0
+Inovação,Índice de Inovação,,,,,1.7,7.2981,0,0,0,0,0,0,0,0,0,0
+Mercado,Índice de Mercado,,,,,1.7,6.5954,0,0,0,0,0,0,0,0,0,0
+Cultura,Iniciativa,Pesquisas por Empreendedora,Google Trends,Pontos ponderados por período e local,2022,18.24,27,0,0,0,0,0,0,0,0,0,0
+Cultura,Iniciativa,Pesquisas por Empreendedorismo,Google Trends,Pontos ponderados por período e local,2022,29.28,31.36,64,0,59,0,0,0,0,54,68,0
+Cultura,Iniciativa,Pesquisas por MEI,Google Trends,Pontos ponderados por período e local,2022,68.4,63,0,0,0,0,0,0,0,0,0,0
+Cultura,Iniciativa,Índice de Iniciativa,,,,1.5,5.9808,0,0,0,0,0,0,0,0,0,0
+Inovação, Inputs, Média de Investimentos do BNDES e FINEP, BNDES e FINEP, Valor investido/empresa,2021,    32640.93,4145.11,     71717.66,     284285.71,     901106.57,     38111.81,     173275.86,     44050.00,     571000.00,     2280439.37,    446680.11,     938757.90
+Inovação,Inputs,Proporção de Mestres e Doutores em C&T,CAPES e RAIS,Titulados/mil empresas,2020,5.46,17.62,0,0,0,0,0,0,0,0,0,0
+Inovação,Inputs,Contratos de Concessão,INPI,Contratos/mil empresas,2018 + 2019,279.23,213.17,0.13,0,0,0,0,0,0,0,0,2.17
+Inovação,Inputs,Infraestrutura Tecnológica,MCTIC e sites de internet,Binária ,2022,30.12,1,0,0,0,0,0,0,0,0,0,0
+Inovação,Inputs,Proporção de Funcionários em C&T,RAIS (ME),% de funcionários,2020,7.32,6.99,0,0,0,0,0,0,0,0,0,0
+Inovação,Inputs,Índice de Inputs,,,,1.7,7.4564,0,0,0,0,0,0,0,0,0,0
+Cultura,Instituições,Pesquisas por Sebrae,Google Trends,Pontos ponderados por período e local,2022,38.76,22.62,0,0,0,0,0,0,0,0,0,0
+Cultura,Instituições,Pesquisas por Franquia,Google Trends,Pontos ponderados por período e local,2022,66.75,70.31,67,0,0,0,0,0,0,0,53,0
+Cultura,Instituições,Pesquisas por SIMPLES Nacional,Google Trends,Pontos ponderados por período e local,2022,53.46,30.68,0,0,0,0,0,0,0,0,55,0
+Cultura,Instituições,Pesquisas por Senac,Google Trends,Pontos ponderados por período e local,2022,6.5,34.04,0,0,56,0,0,0,0,0,0,0
+Cultura,Instituições,Índice Instituições,,,,1.6,6.4223,0,0,0,0,0,0,0,0,0,0
+Inovação,Outputs,Patentes,INPI,Patentes/mil empresas,2018 + 2019,7.74,7.76,0.77,0,0.70,0,0,0,0,1.35,1.15,0
+Inovação,Outputs,Tamanho da Indústria Inovadora,RAIS (ME),% empresas,2020,1.10,0.42,0,0,0,0,0,0,0,0,0,0
+Inovação,Outputs,Tamanho da Economia Criativa,RAIS (ME),% empresas,2020,2.8,2.22,0,0,0,0,0,0,0,0,0,0
+Inovação,Outputs,Tamanho das Empresas TIC,RAIS (ME),% empresas,2020,2.50,1.84,0,0,0,0,0,0,0,0,0,0
+Inovação,Outputs,Índice de Outputs,,,,1.7,6.9329,0,0,0,0,0,0,0,0,0,0
+Ambiente Regulatório,Tempo de Processos,Taxa de Congestionamento em Tribunais,CNJ,% de processos,2021,96.21,96.41,86.80,0,86.98,0,84.55,0,0,92.71,87.92,0
+Ambiente Regulatório,Tempo de Processos,Tempo de Viabilidade de Localização,REDESIM,Horas médias,2021,0.18,0,0,0,0,0,0,0,0,0,0,0
+Ambiente Regulatório,Tempo de Processos,"Tempo de Registro, Cadastro e Viabilidade de Nome",REDESIM,Horas médias,2021,37.68,34.74,0,0,0,0,0,0,0,0,0,0
+Ambiente Regulatório,Tempo de Processos,Índice de Tempo de Processos,,,,1.5,11.056,0,0,0,0,0,0,0,0,0,0
+Infraestrutura,Transporte Interurbano,Número de Decolagens por Ano,ANAC,Decolagens por ano,2021,15.8,42453,0,0,0,0,0,0,0,0,0,0
+Infraestrutura,Transporte Interurbano,Conectividade Via Rodovias,Google Maps ,Rodovias,2022,15.1,4,2,2,3,1,2,1,1,2,3,2
+Infraestrutura,Transporte Interurbano,Distância ao Porto mais Próximo,MINFRA,Km,2022,18.2,24,186,269,290,246,210,263,247,220,309,240
+Infraestrutura,Transporte Interurbano,Índice de Transporte Urbano,,,,1.8,6.5881,0,0,0,0,0,0,0,0,0,0
+Ambiente Regulatório,Tributação,Qualidade de Gestão Fiscal,FIRJAN,Índice,2021,0.82,0.3,0.88,0.56,0.6,0.76,0.85,0.76,0.7,0.92,0.88,0.94
+Ambiente Regulatório,Tributação,Alíquota Interna do ICMS,SICONFI e IBGE,% do PIB estadual,2021 e 2018,8.2,6.80,10.14,10.14,10.14,10.14,10.14,10.14,10.14,10.14,10.14,10.14
+Ambiente Regulatório,Tributação,Alíquota Interna do IPTU,SICONFI e IBGE,% do PIB estadual,2021 e 2018,1.75,1.16,0,0,2.92,0,0,0,0.2,0,0,0
+Ambiente Regulatório,Tributação,Alíquota Interna do ISS,SICONFI e IBGE,% do PIB estadual,2021 e 2018,3.7,1.89,0,0,0.39,0.70,0,0,02.06,3.82,0.52,5.43
+Ambiente Regulatório,Tributação,Índice de Tributação,,,,1.5,4.8742,0,0,0,0,0,0,0,0,0,0
+Fator 1,,,,,,9.4,5.776,0,0,0,0,0,0,0,0,0,0
+Fator 2,,,,,,1.2,1.9608,0,0,0,0,0,0,0,0,0,0
+Fator 3,,,,,,31.8,4.559,0,0,0,0,0,0,0,0,0,0
+ICE 2023,,,,,,1.8,7.7287,0,0,0,0,0,0,0,0,0,0
