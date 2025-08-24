@@ -8,10 +8,9 @@
     </tr>
     <tr>
         <td>
-            English - <a>
-                <href src="https://github.com/BrunoPolaski/factorial-analysis-ICE-research/README.en.md">
-                    [See here]
-                </href>
+            English -
+            <a href="https://github.com/BrunoPolaski/factorial-analysis-ICE-research/blob/main/README.en.md">
+                [See here]
             </a>
         </td>
     </tr>
