@@ -40,17 +40,13 @@ plt.ylabel("Eigenvalue")
 plt.grid(True)
 plt.show()
 
-n_factors = int(np.sum(eigenvalues > 1))
-n_factors = max(1, n_factors)
-print(f"Chosen number of factors by Kaiser (>1): {n_factors}")
-
-fa = FactorAnalyzer(n_factors=n_factors, rotation='varimax', method='principal')
+fa = FactorAnalyzer(n_factors=3, rotation='varimax', method='principal')
 fa.fit(X_scaled)
 
 loadings = pd.DataFrame(
     fa.loadings_,
     index=X_df.columns,
-    columns=[f"Factor{i+1}" for i in range(n_factors)]
+    columns=[f"Factor{i+1}" for i in range(3)]
 ).sort_index()
 
 communalities = pd.Series(fa.get_communalities(), index=X_df.columns, name="Communality")
@@ -61,12 +57,12 @@ variance_df = pd.DataFrame({
     "SS Loadings": var,
     "Proportion Var": var_prop,
     "Cumulative Var": var_cum
-}, index=[f"Factor{i+1}" for i in range(n_factors)])
+}, index=[f"Factor{i+1}" for i in range(3)])
 
 scores = pd.DataFrame(
     fa.transform(X_scaled),
     index=X_df.index,
-    columns=[f"Factor{i+1}" for i in range(n_factors)]
+    columns=[f"Factor{i+1}" for i in range(3)]
 )
 
 print("\n=== KMO per variable (first 10) ===")
